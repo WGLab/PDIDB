@@ -150,6 +150,13 @@ raw_data/
     └── ...
 ```
 
+> 📊 **Training Dataset Information**  
+> The synthetic images showcased in this repository were generated using a model trained on 2,357 facial images across 11 categories:
+> - **Disease images** (10 categories, 1,857 images): Cornelia de Lange Syndrome (447), Williams-Beuren Syndrome (273), Noonan Syndrome (217), Kabuki Syndrome (206), KBG Syndrome (179), Angelman Syndrome (160), Rubinstein-Taybi Syndrome (116), Smith-Magenis Syndrome (102), Nicolaides-Baraitser Syndrome (97), and 22q11.2 Deletion Syndrome (60). All disease images are sourced from the [GestaltMatcher Database (GMDB)](https://db.gestaltmatcher.org/).
+> - **Healthy control images** (500 images): Selected from the [FFHQ dataset](https://github.com/NVlabs/ffhq-dataset) with age < 20 years.
+>
+> You can train the model on your own custom disease categories and sample sizes by following the data preprocessing steps below.
+
 #### Preprocessing Steps
 
 **Manual Preprocessing:**
