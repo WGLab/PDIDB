@@ -22,7 +22,6 @@
   - [4. Generate Synthetic Images](#4-generate-synthetic-images)
 - [Citation](#citation)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
