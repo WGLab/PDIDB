@@ -20,7 +20,6 @@
   - [2. Data Preprocessing](#2-data-preprocessing)
   - [3. Model Training](#3-model-training)
   - [4. Generate Synthetic Images](#4-generate-synthetic-images)
-- [Citation](#citation)
 - [License](#license)
 
 ---
